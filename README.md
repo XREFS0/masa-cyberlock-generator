@@ -1,4 +1,4 @@
-# MASA CyberLock Generator
+﻿# MASA CyberLock Generator
 
 A cryptographically secure key and password generator powered by Python secrets engine and Shannon-entropy estimation.
 
@@ -10,6 +10,10 @@ The codebase follows modular software engineering patterns and OOP structure, de
 - **Defensive Engineering**: Comprehensive validation guards protect against malformed inputs and runtime exceptions.
 - **Modern Design Tokens**: Designed with a high-contrast dark aesthetic adhering to modern developer tooling visual standards.
 
+
+## Preview
+
+![Application Interface](screenshots/app_interface.png)
 ## Features
 
 - Cryptographically secure pseudo-random number generator (CSPRNG) via Python secrets module.
@@ -38,11 +42,12 @@ python "Complete Password Generator in Python/index.py"
 
 ```
 .
-├── Complete Password Generator in Python
-├── LICENSE             # MIT License
-└── README.md           # Developer documentation
+â”œâ”€â”€ Complete Password Generator in Python
+â”œâ”€â”€ LICENSE             # MIT License
+â””â”€â”€ README.md           # Developer documentation
 ```
 
 ## License
 
 This project is licensed under the terms of the MIT License. Refer to the `LICENSE` file for details.
+
